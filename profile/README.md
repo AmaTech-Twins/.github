@@ -16,7 +16,7 @@ Welcome to the problem-solving journey of Andile Mkhize and Ndzalama Mabasa, kno
 
 ## About Us
 
-![AmaTech Twins](<Insert_AmaTech_Twins_Picture_Link_Here>)
+![AmaTech Twins](https://drive.google.com/file/d/1uvHdsxXkjFFsyO0irYwEfOJ6b4K1TyQx/view?usp=drive_link)
 - **AmaTech Twins:** Full-stack web development enthusiasts, aspiring to excel in algorithms and data structures.
 
 ## Motivational Quote
