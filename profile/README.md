@@ -15,8 +15,8 @@ Welcome to the problem-solving journey of Andile Mkhize and Ndzalama Mabasa, kno
 4. **Planning (10 minutes):** Use the last 10 minutes to plan for the next session.
 
 ## About Us
+<img src=https://github.com/AmaTech-Twins/.github/assets/40816245/6c870b39-a581-478c-9206-65d79eafeee6 alt="AmaTech Twins" width="300" height="300" style="border-radius: 50%">
 
-![AmaTech Twins](https://drive.google.com/file/d/1uvHdsxXkjFFsyO0irYwEfOJ6b4K1TyQx/view?usp=drive_link)
 - **AmaTech Twins:** Full-stack web development enthusiasts, aspiring to excel in algorithms and data structures.
 
 ## Motivational Quote
