@@ -1,11 +1,11 @@
 # Problem Solving Sessions
 
-Welcome to the problem-solving organisation of Lebogang Sekwati, Miah-Niecke Dreeckmeier, Ndzalama Mabasa, Silindile Madlala, Siphesihle Mnyengeza and Tebogo Motibana . They are dedicated Umuzi full-stack web development recruits who are upskilling to join BBD Software company. This GitHub repository is dedicated to documenting their daily prooblem-solving sessions, focused on improving their problem-solving skills in algorithms and data structures.
+Welcome to the Pro-Solving Squad where we solve data structures and algorithms problems from some of the most popular online coding interview preparation platforms
 
 ## Session Details
 
-- **When:** Everyday
-- **Time:** 1.5 hours 
+- **When:** Every Thursday
+- **Time:** 11:00 - 12:30 (1.5 hours) 
 
 ## Motivational Quote
 
